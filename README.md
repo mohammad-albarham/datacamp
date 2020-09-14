@@ -12,6 +12,8 @@ This repositoray includes all exercises solutions for Tracks, Courses and Projec
 ## Completed Courses:
 
 * [Introduction to Git](https://learn.datacamp.com/courses/introduction-to-git)
+* [Object-Oriented Programming in Python](https://learn.datacamp.com/courses/object-oriented-programming-in-python)
+
 
 ## Completed Projects: 
 
@@ -28,3 +30,4 @@ This project has beed done with my collegue [Muhammad Al-Fetyani](https://github
 * [Machine Learning Scientist with Python Track](https://www.datacamp.com/statement-of-accomplishment/track/df7fdf7ad6663641158f67f6f1916f2378c2123d)  
 
 * [Introduction to Git](https://www.datacamp.com/statement-of-accomplishment/course/509aed18ac536b9fe8af0c42307c730ae570b608)
+* [Object-Oriented Programming in Python](https://www.datacamp.com/statement-of-accomplishment/course/02d32b45d7058c594c9fcde1b7c6dfb6e74c8ecf)
